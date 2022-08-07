@@ -1,0 +1,19 @@
+npm init --y = Criar um projeto node 
+
+npm install typescript -D = Instala o TypeScript no ambiente de desenvolvimento, quando for para o  ambiente de produção este não será instalado.
+
+npx tsc --init = Inicializa o typescript na aplicação, ou seja podemos utilizar o type script na aplicação que este será reconhecido.
+
+npm install ts-node-dev -D = Esta estenção vai permitir executar a aplicação com ts node-dev, com isso poderemos executar a nossa aplicação com typescript.
+
+npm run dev = Após todas as configurações a aplicação será executada com este comando.
+
+npm install express = Dependências para contruir servidor.
+
+npm install @types/express -D = Sempre que instalar o express, instalar os types.
+
+uma API rest, parte do princípio que se conseguirar efetuar todas as operações em um banco de dados.
+
+
+
+
